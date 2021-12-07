@@ -14,17 +14,17 @@ The challenge consists on the development of the frontend for an API where the u
 
 ## Getting Started
 **Installation**
-Clone this repo
+- Clone this repo
 
     git clone https://github.com/valenottaviano/newcombin-challenge.git
 
 **Usage**
-Starting the API
+- Starting the API
 
     cd devskills
     npm run serve
 
-Starting the App
+- Starting the App
 
     cd react-webapp
     npm start
