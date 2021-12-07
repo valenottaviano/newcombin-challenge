@@ -20,12 +20,12 @@ The challenge consists on the development of the frontend for an API where the u
 
 **Usage**
 - Starting the API
-
+```
     cd devskills
     npm run serve
-
+```
 - Starting the App
-
+```
     cd react-webapp
     npm start
-
+```
