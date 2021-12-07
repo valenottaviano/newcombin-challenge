@@ -25,10 +25,12 @@ The challenge consists on the development of the frontend for an API where the u
 - Starting the API
 ```
     cd devskills
+    npm install
     npm run serve
 ```
 - Starting the App
 ```
     cd react-webapp
+    npm install
     npm start
 ```
